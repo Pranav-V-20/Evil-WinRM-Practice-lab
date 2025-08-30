@@ -15,22 +15,6 @@
 
 ---
 
-## 📚 Table of Contents
-
-1. [Lab Topology](#-lab-topology)
-2. [Prerequisites](#-prerequisites)
-3. [VirtualBox Networking Setup](#-virtualbox-networking-setup)
-4. [Windows Target Configuration](#-windows-target-configuration)
-5. [Kali Attacker Setup & Usage](#-kali-attacker-setup--usage)
-6. [Connectivity Checks](#-connectivity-checks)
-7. [Troubleshooting](#-troubleshooting)
-8. [Scripts](#-scripts)
-9. [FAQ](#-faq)
-10. [Security Notes](#-security-notes)
-11. [License](#-license)
-
----
-
 ## 🗺️ Lab Topology
 
 * **Attacker**: Kali Linux (VM)
